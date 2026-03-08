@@ -1,6 +1,6 @@
 {
   "name": "@tokentop/agent-gemini",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Gemini session tracking for tokentop — supports Gemini CLI, Antigravity, and all tools built on gemini-cli-core",
   "type": "module",
   "main": "dist/index.js",
